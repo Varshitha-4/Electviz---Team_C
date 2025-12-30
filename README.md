@@ -1,4 +1,4 @@
-\# 📊 ElectiViz: Election Intelligence Dashboard
+#📊 ElectiViz: Election Intelligence Dashboard
 
 
 
