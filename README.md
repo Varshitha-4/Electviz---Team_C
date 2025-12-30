@@ -10,30 +10,29 @@ The platform supports **live election coverage**, **post-election deep dives**, 
 
 ## 🖼️ Dashboard Gallery
 
-> 📌 Screenshots are stored in the `/screenshots` folder
 
 ### 1️⃣ National Command Center
-![National Command Center](screenshots/national-command-center.jpg)
+![National Command Center](Screenshots/national-command-center.jpg)
 
 ---
 
 ### 2️⃣ State Battlegrounds
-![State Battlegrounds](screenshots/state-battlegrounds.jpg)
+![State Battlegrounds](Screenshots/state-battlegrounds.jpg)
 
 ---
 
 ### 3️⃣ Party Strategy & Performance Analysis
-![Party Strategy & Performance Analysis](screenshots/party-strategy-performance.jpg)
+![Party Strategy & Performance Analysis](Screenshots/party-strategy-performance.jpg)
 
 ---
 
 ### 4️⃣ Demographic Analysis: Gender & Turnout
-![Demographic Analysis](screenshots/demographic-analysis.jpg)
+![Demographic Analysis](Screenshots/demographic-analysis.jpg)
 
 ---
 
 ### 5️⃣ Election War Room: Margin Analysis
-![Election War Room](screenshots/election-war-room.jpg)
+![Election War Room](Screenshots/election-war-room.jpg)
 
 ---
 
