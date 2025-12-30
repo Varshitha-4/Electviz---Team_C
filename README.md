@@ -71,5 +71,29 @@ The platform supports **live election coverage**, **post-election deep dives**, 
 
 ---
 
-## 📂 Repository Structure
+## 🎯 Use Cases
+- 📺 Media election coverage  
+- 🗳️ Political performance analysis  
+- 📊 Academic research  
+- 📰 Data journalism  
+
+---
+
+## 👥 Team C
+- **Ashish Ransing** – Team Leader  
+- **N. Manjushri**  
+- **PD. Varshita**  
+- **Pratham S. Salian**  
+- **Deepika Kanukanthi**
+
+---
+
+## 📌 Disclaimer
+This project is intended strictly for **educational and analytical purposes**.  
+All election data used is **publicly available** and processed responsibly.
+
+---
+
+## ⭐ Support
+If you find this project useful, please consider giving it a **star ⭐**.
 
